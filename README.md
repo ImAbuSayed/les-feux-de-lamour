@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-feux-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Les Feux De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-feux-de-lamour/) |
+| **Get License** | [Official Music Licensing for Les Feux De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-feux-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton reflet glisse sur les vitres teintées, mon amour
+> Un seul regard et tu mets tout le club en mode glamour
+> Ton parfum m'envoûte, je perds le contrôle de la night
+> Les feux de la ville s'allument, on s'évade vers les lights
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
