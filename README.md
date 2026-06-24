@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-feux-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Feux De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-feux-de-lamour/) |
+| **Get License** | [Get License For Les Feux De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-feux-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `702e037db29b2cee5312af398b6018459995a2d8f5813c1e686c37a9527c1ee8` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
